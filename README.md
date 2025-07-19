@@ -1,55 +1,64 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/olaniyi-josiah-7831aa364/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/olaniyijosiah1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
+  <h1>Hi 👋, I'm Josiah</h1>
+  <h3>A passionate Full Stack & Blockchain Developer from Nigeria</h3>
+
+  <div>
+    <a href="https://www.linkedin.com/in/olaniyi-josiah-7831aa364/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/olaniyijosiah1" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" alt="Twitter/X" />
+    </a>
+  </div>
 </div>
 
-###
+---
 
-<h1 align="center">HI 👋</h1>
+### 👨‍💻 About Me
 
-###
+- 🔭 I’m a **Frontend, Backend, and Blockchain Developer**
+- 🚀 Currently diving deep into **Rust** and **Solana**
+- 🎮 I unwind with music, action games, and football
+- 🌱 Always improving my skills in Go, Rust, and distributed systems
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### ⚒️ Languages & Tools
 
-<p align="left">I'm Josiah from Nigeria<br><br>- 🔭 I’m working as Frontend, Backend, Blockchain developer.<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I listen to music or play video, action and football game</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 </div>
 
-###
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-saturo&show_icons=true&locale=en&layout=compact" alt="jojo-saturo" /></p>
+### 🔥 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-saturo&" alt="jojo-saturo" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jojo-saturo&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-saturo&theme=radical" height="180" alt="Streak stats" />
+</div>
 
+---
 
-###
+### 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo-saturo&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jojo-saturo&theme=onedark&margin-w=15&no-frame=true" />
+</div>
