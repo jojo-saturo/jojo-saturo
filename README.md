@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">HI 👋</h1>
 
 ###
 
@@ -47,6 +47,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-saturo&show_icons=true&locale=en&layout=compact" alt="jojo-saturo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-saturo&" alt="jojo-saturo" /></p>
+
 
 ###
