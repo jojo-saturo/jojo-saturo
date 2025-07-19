@@ -1,8 +1,15 @@
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Josaih</h1>
+<h3 align="center">A passionate Frontend,Baackend and Blockchain developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo-saturo&label=Profile%20views&color=0e75b6&style=flat" alt="jojo-saturo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/olaniyijosiah1" target="blank"><img src="https://img.shields.io/twitter/follow/olaniyijosiah1?logo=twitter&style=for-the-badge" alt="olaniyijosiah1" /></a> </p>
+
+- 🌱 I’m currently learning **Rust**
+
+- 📫 How to reach me **niyitripplejoejoejoe@gmail.com**
+
+- ⚡ Fun fact **I love Listening to music and playing games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
