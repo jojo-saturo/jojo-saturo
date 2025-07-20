@@ -3,9 +3,6 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Josiah</h1>
-  <h3>A passionate Full Stack & Blockchain Developer from Nigeria</h3>
-
   <div>
     <a href="https://www.linkedin.com/in/olaniyi-josiah-7831aa364/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" alt="LinkedIn" />
